@@ -7,8 +7,8 @@
 
 
 //ssid e password per connettersi
-const char* ssid = "Wedo";
-const char* password = "Katzenburg25";
+const char* ssid = "SSID";
+const char* password = "PASSWORD";
 const char* broker = "192.168.0.2";
 const char* nome = "HeartLamp";  //inserire il nome del client
 
